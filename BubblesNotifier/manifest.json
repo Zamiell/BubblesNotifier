@@ -1,0 +1,10 @@
+{
+  "Name": "BubblesNotifier",
+  "Author": "Zamiel",
+  "Version": "1.0.0",
+  "Description": "Notifies you when bubbles spawn.",
+  "UniqueID": "Zamiel.BubblesNotifier",
+  "EntryDll": "BubblesNotifier.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
