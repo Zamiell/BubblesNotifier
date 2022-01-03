@@ -6,5 +6,5 @@
   "UniqueID": "Zamiel.BubblesNotifier",
   "EntryDll": "BubblesNotifier.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": ["GitHub:Zamiell/BubblesNotifier"]
 }
